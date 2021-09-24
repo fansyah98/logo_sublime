@@ -1,0 +1,43 @@
+
+body{
+	background-color: blue;
+}
+.Sublime{
+	background: #2e2e2f;
+	padding: 40px 30px 40px 40px;
+	width: 120px;
+	height: 120px;
+	border-radius: 7px;
+}
+
+.satu{
+	background: #f89820;
+	height: 40px ;
+	width: 100px;
+	border-radius: 4px;
+	transform: skew(-20deg);
+	transform: skewY(-20deg);
+}
+.dua {
+	background: #f89820;
+	height: 40px ;
+	width: 100px;
+	border-radius: 4px;
+	transform: skew(20deg);
+	transform: skewY(20deg);
+	margin-top: 3px;
+	margin-bottom: 3px;
+}
+
+.tiga {
+	background: #f89820;
+	height: 40px ;
+	width: 100px;
+	border-radius: 4px;
+	transform: skew(-20deg);
+	transform: skewY(-20deg);
+
+}
+
+
+
